@@ -1,6 +1,6 @@
 belajar PHP
  *dasar PHP
- *belajar mysql database
+ *belajar bootstrap
 belajar codeinter
  *dasar codeinter
 belajar MVC
