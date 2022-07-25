@@ -6,3 +6,4 @@ belajar codeinter
 belajar MVC
  *dasar MVC
 belajar laravel
+belajar python
