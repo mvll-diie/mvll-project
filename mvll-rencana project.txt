@@ -1,7 +1,9 @@
 belajar PHP
  *dasar PHP
+ *belajar mysql database
 belajar codeinter
  *dasar codeinter
 belajar MVC
  *dasar MVC
 belajar laravel
+belajar python
